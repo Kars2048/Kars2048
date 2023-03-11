@@ -3,9 +3,8 @@
 - 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning MySQL and node.js
 
-<div align="center">  
+<div align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kars2048&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Alan Ribeiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kars2048&layout=compact&hide_border=true&title_color=20B2AA&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 <div style="display: inline_block"><br>
