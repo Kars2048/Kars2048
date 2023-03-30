@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning MySQL and node.js
 
 <div align="left">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kars2048&show_icons=true&count_private=true&hide_border=true&title_color=20B2AA&icon_color=20B2AA&text_color=20B2AA&bg_color=1C1C1C" alt="Alan Ribeiro github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Kars2048&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=20B2AA&text_color=20B2AA&bg_color=1C1C1C" alt="Alan Ribeiro github stats" /> 
 </div>
 
 <div style="display: inline_block"><br>
